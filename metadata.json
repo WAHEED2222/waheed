@@ -1,0 +1,7 @@
+{
+  "name": "Copy of JOBEE",
+  "description": "An AI-powered platform connecting talent with opportunity. Features resume optimization and mock interviews for seekers, and job description generation and candidate screening for recruiters.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
